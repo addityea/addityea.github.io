@@ -42,7 +42,7 @@ knit: pagedown::chrome_print
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-### Postgraduate Institute of Medical Education and Research, Paeditric Haematology Oncology
+### Postgraduate Institute of Medical Education and Research, Paediatric Haematology Oncology
 
 PhD in Medical Molecular biology
 
@@ -116,11 +116,22 @@ Chandigarh, India
 
 ## Select Publications {data-icon="file"}
 
-### Genetic architecture of cardiac dynamic flow volumes.
+### Summary
+
+Total Publications: 28
+
+[ORCID](https://orcid.org/0000-0003-0827-7429)
+
+Citations - ~150
+
+h-index - 7
+
+
+### Genetic architecture of cardiac dynamic flow volumes
 
 Nature Genetics - submitted 3rd revision
 
-[DOI](https://doi.org/10.1101/2022.10.05.22280733)
+[Pre-print DOI](https://doi.org/10.1101/2022.10.05.22280733)
 
 2022
 
