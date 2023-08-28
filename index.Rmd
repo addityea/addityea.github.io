@@ -1,0 +1,258 @@
+---
+title: "Aditya Singh's resume"
+author: Aditya Singh
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Aditya Singh](assets/profile.jpg){width="80%"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [aditya.singh\@ki.se](mailto:aditya.singh@ki.se){.email}
+-   <i class="fa fa-globe"></i> [aditya-singh](hhttps://staff.ki.se/people/aditya-singh)
+-   <i class="fa fa-github"></i> [github.com/aditya-88](https://github.com/aditya-88)
+-   <i class="fa fa-phone"></i> +46 793 539 123
+-   For more information, please contact me via email.
+
+## Skills {#skills}
+
+-   Proficient in multi-omics data analysis and gene regulatory network inference algorithms
+-   Programming languages: Golang, R, Python, Bash, CromWell/WDL
+-   Experience in HPC and cloud (GCP) cluster management and maintenance
+-   Molecular biology with a focus on CRISPR guided genome editing
+-   Experience in scientific writing and presentation
+
+
+# Main
+
+## Aditya Singh {#title}
+
+### PhD, Postdoctoral Researcher
+
+### [Karolinska Institutet](https://ki.se/en/startpage)
+
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Postgraduate Institute of Medical Education and Research, Paeditric Haematology Oncology
+
+PhD in Medical Molecular biology
+
+Chandigarh, India
+
+2020 - 2016
+
+Thesis: In-vitro BCR-ABL gene silencing in paediatric CML using CRISPR Cas system
+
+### Punjabi University, Department of Microbiology
+
+MSc in Microbiology
+
+Patiala, India
+
+2011 - 2009
+
+Thesis: Cloning and overexpression of murA gene of Escherichia coli
+
+### Panjab University, Department of Microbiology
+
+BSc in Microbiology
+
+Chandigarh, India
+
+2009 - 2006
+
+
+## Research Experience {data-icon="laptop"}
+
+### Postdoctoral Researcher
+
+Karolinska Institutet, Clinical Neurosciences (Robert Harris Group)
+
+Solna, Sweden
+
+Current - 2022/11
+
+-   ALS patient driven multi-omic data analysis (RNA-seq, scRNAseq, WGS) and gene regulatory network inference
+-   Integration of the multiome with patient pathophysiology and clinical data for disease dynamics interpretation using deep learning
+-   Development of individualized ALS patient disease dynamic models for improved clinical decision making
+-   Understanding the mammalian regeneration process using temporal differential gene expression analysis
+
+
+### Postdoctoral Researcher
+
+Stanford Medicine, Department of Cardiology (Ashley Group)
+
+Stanford, USA
+
+2022/11 - 2021/01
+
+-   Designing of recombinant AAVs for improved cardiac tropism and immunogenic properties with a focus on hypertrophic cardiomyopathy
+-   Temporal multi-omics study of human performance and aging using RNA-seq, WGS, ATAC-seq and proteomics (MoTrPAC consortium)
+-   Development of Google cloud based platform for enabling the study
+
+### Graduate Student
+
+Postgraduate Institute of Medical Education and Research, Paeditric Haematology Oncology 
+
+Chandigarh, India
+
+2020 - 2016
+
+-   Worked on knocking down the tumorigenicity of *BCR-ABL* chimeric gene in chronic myeloid leukemia cell line using CRISPR *Cas13a*
+-   Achieved a 4.5 times reduction in the downstream effects of the chimeric gene and 373x reduction in viability of the cancerous cells
+-   Developed novel diagnostics based on targeted next generation sequencing
+-   Bioinformatic platform development for clinical data handling
+-   Deep learning algorithms for accurately filtering true variant calls from next generation sequencing data.
+
+
+## Select Publications {data-icon="file"}
+
+### Genetic architecture of cardiac dynamic flow volumes.
+
+Nature Genetics - submitted 3rd revision
+
+[DOI](https://doi.org/10.1101/2022.10.05.22280733)
+
+2022
+
+Bruna Gomes,  **Aditya Singh**,  Jack W O’Sullivan, David Amar, Mykhailo Kostur, Francois Haddad, Michael Salerno, Victoria N. Parikh, Benjamin Meder, Euan A. Ashley
+
+### Effective Downregulation of BCR-ABL Tumorigenicity by RNA Targeted CRISPR-*Cas13a*
+
+Current Gene Therapy 2021;21(3):270-277
+
+[DOI](https://doi.org/10.2174/1566523221666210217155233)
+
+
+2021
+
+**Aditya Singh**, Prateek Bhatia
+
+### Comparative sequencing data analysis of Ion Torrent and MinION sequencing platforms using a clinical diagnostic haematology panel
+
+Int J Lab Hem 42, 833– 841
+
+[DOI](https://doi.org/10.1111/ijlh.13286)
+
+2020
+
+**Aditya Singh**, Prateek Bhatia
+
+## Talks and conferences {data-icon="person-chalkboard"}
+
+### The cell autonomous effects on sporadic ALS onset and survival
+
+ENCALS Meeting (Poster)
+
+Barcelona, Spain
+
+2023
+
+**Aditya Singh**, Stefan Wouters, Sebastian A. Lewandowski
+
+### Cloud genomics platform for precision medicine
+
+GREGoR, US (Talk)
+
+Virtual
+
+2022
+
+**Aditya Singh**
+
+### Uncovering genetic secrets
+
+Undiagnosed Diseases Network, US (Talk)
+
+Virtual
+
+2022
+
+**Aditya Singh**
+
+### Robust, reproducible, and rapid end-to-end genomics data analysis
+
+NIH MoTrPAC DQAR (Talk)
+
+Virtual
+
+2021
+
+**Aditya Singh**
+
+## Recognition {data-icon="award"}
+
+### PhD Scholarship
+
+PGIMER (top 5 in entrance exam)
+
+Chandigarh, India
+
+2020 - 2016
+
+### Dr JC Patel Best paper award
+
+ISHBT, India
+
+New Delhi, India
+
+2019
+
+
+### RNA targeted CRISPR Cas13a effectively downregulates BCR- ABL1 tumorigenicity in vitro
+
+Hematocon (Best scientific paper award)
+
+New Delhi, India
+
+2019
+
+
+### Multiple and repetitive variations in TMPRSS6 gene in pediatric cohort with iron refractory iron deficiency anemia (IRIDA) phenotype.
+
+Best of ASH CME in Hematology (Top three abstracts)
+
+Mumbai, India
+
+2017
+
+### BCR-ABL1 chimeric gene silencing using CRISPR-Cas9 technique: Initial cell culture data
+
+iCMLf 19th Annual John Goldman COnference on CML (Top five abstracts)
+
+Estoril, Portugal
+
+2017
+
+### LEUKA International Scholarship
+
+LEUKA
+
+London, UK
+
+2017
+
+### Chuttani Fund
+
+TTV Chuttani Trust
+
+Chandigarh, India
+
+2017
+
+### International Travel Grant
+
+Immunology Foundation
+
+New Delhi, India
+
+2017
