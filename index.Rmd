@@ -129,7 +129,7 @@ h-index - 7
 
 ### Genetic architecture of cardiac dynamic flow volumes
 
-Nature Genetics - submitted 3rd revision
+Nature Genetics - Accepted, in press
 
 [Pre-print DOI](https://doi.org/10.1101/2022.10.05.22280733)
 
