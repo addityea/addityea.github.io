@@ -133,9 +133,19 @@ Nature Genetics - Accepted, in press
 
 [Pre-print DOI](https://doi.org/10.1101/2022.10.05.22280733)
 
-2022
+2023
 
 Bruna Gomes,  **Aditya Singh**,  Jack W O’Sullivan, David Amar, Mykhailo Kostur, Francois Haddad, Michael Salerno, Victoria N. Parikh, Benjamin Meder, Euan A. Ashley
+
+### Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures
+
+Cell Genetics
+
+Accepted, in press
+
+2023
+
+Venugopalan D Nair, Stuard Sealfon, Hanna Pincas, Martin Walsh, Gregory Smith, Elena Zaslavsky, Yongchai Ge, Mary Anne Amper, Mital Vasoya, Chikina Maria, Yifei Sun, Archana Natarajan Raja, Mao Wayne, Nicole Renee Gay, Kevin Shawn Smith, Bingqing Zhao, Laurens van de Wiel, **Aditya Singh**, Malene Elin Lindholm, David Amar, Michael Snyder, Karyn Esser, Stephen Montgomery
 
 ### Effective Downregulation of BCR-ABL Tumorigenicity by RNA Targeted CRISPR-*Cas13a*
 
