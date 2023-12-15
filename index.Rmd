@@ -85,6 +85,8 @@ Current - 2022/11
 -   Integration of the multiome with patient pathophysiology and clinical data for disease dynamics interpretation using deep learning
 -   Development of individualized ALS patient disease dynamic models for improved clinical decision making
 -   Understanding the mammalian regeneration process using temporal differential gene expression analysis
+-   Supervision of ERASMUS master's students
+-   Teaching bioinformatics to the students of the Master's program at Karolinska Institutet
 
 
 ### Postdoctoral Researcher
