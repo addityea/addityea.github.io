@@ -128,6 +128,16 @@ Citations - ~150
 
 h-index - 7
 
+### Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures
+
+Cell Genomics
+
+[DOI] (https://doi.org/10.1016/j.xgen.2023.100421)
+
+2024
+
+Nair VD, Pincas H, Smith GR, Zaslavsky E, Ge Y, Amper MAS, Vasoya M, Chikina M, Sun Y, Raja AN, Mao W, Gay NR, Esser KA, Smith KS, Zhao B, Wiel L, **Singh A**, Lindholm ME, Amar D, Montgomery S, Snyder MP, Walsh MJ, Sealfon SC; MoTrPAC Study Group.
+
 
 ### Genetic architecture of cardiac dynamic flow volumes
 
@@ -138,16 +148,6 @@ Nature Genetics
 2023
 
 Bruna Gomes,  **Aditya Singh**,  Jack W O’Sullivan, David Amar, Mykhailo Kostur, Francois Haddad, Michael Salerno, Victoria N. Parikh, Benjamin Meder, Euan A. Ashley
-
-### Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures
-
-Cell Genetics
-
-Accepted, in press
-
-2023
-
-Venugopalan D Nair, Stuard Sealfon, Hanna Pincas, Martin Walsh, Gregory Smith, Elena Zaslavsky, Yongchai Ge, Mary Anne Amper, Mital Vasoya, Chikina Maria, Yifei Sun, Archana Natarajan Raja, Mao Wayne, Nicole Renee Gay, Kevin Shawn Smith, Bingqing Zhao, Laurens van de Wiel, **Aditya Singh**, Malene Elin Lindholm, David Amar, Michael Snyder, Karyn Esser, Stephen Montgomery
 
 ### Effective Downregulation of BCR-ABL Tumorigenicity by RNA Targeted CRISPR-*Cas13a*
 
