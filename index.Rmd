@@ -16,7 +16,7 @@ knit: pagedown::chrome_print
 
 ## Contact Info {#contact}
 
--   <i class="fa fa-envelope"></i> [dr.singhaditya\@hotmail.com](mailto:dr.singhaditya@hotmail.com){.email}
+-   <i class="fa fa-envelope"></i> [aditya.singh\@gu.se](mailto:aditya.singh@gu.se){.email}
 -   <i class="fa fa-github"></i> [github.com/aditya-88](https://github.com/aditya-88)
 -   <i class="fa fa-phone"></i> +46 793 539 123
 -   For more information, please contact me via email.
