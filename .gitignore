@@ -4,3 +4,6 @@
 .Ruserdata
 *.pdf
 *.Rproj
+
+# macOS specific files
+.DS_Store
