@@ -139,7 +139,7 @@ h-index - 7
 
 Cell Genomics
 
-[DOI] (https://doi.org/10.1016/j.xgen.2023.100421)
+[DOI](https://doi.org/10.1016/j.xgen.2023.100421)
 
 2024
 
