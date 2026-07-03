@@ -23,8 +23,8 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
--   Proficient in multi-omics data analysis and gene regulatory network inference algorithms
--   Programming languages: Golang, R, Python, Bash, CromWell/WDL
+-   Single cell and spatial transcriptomics, pipeline dev, reproducibility
+-   Programming: Golang, R, Python, Nextflow/nf-core, Bash, CromWell/WDL
 -   Experience in HPC and cloud (GCP) cluster management and maintenance
 -   Molecular biology with a focus on CRISPR guided genome editing
 -   Experience in scientific writing and presentation
@@ -36,7 +36,7 @@ knit: pagedown::chrome_print
 
 ### PhD, Bioinformatician
 
-### [University of Gothenburg](https://www.gu.se/en)
+### [NBIS](https://www.nbis.se), University of Gothenburg](https://www.gu.se/en)
 
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
