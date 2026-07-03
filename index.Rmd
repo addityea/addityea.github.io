@@ -24,7 +24,7 @@ knit: pagedown::chrome_print
 ## Skills {#skills}
 
 -   Single cell and spatial transcriptomics, pipeline dev, reproducibility
--   Programming: Golang, R, Python, Nextflow/nf-core, Bash, CromWell/WDL
+-   Golang, R, Python, Nextflow/nf-core, Bash, CromWell/WDL
 -   Experience in HPC and cloud (GCP) cluster management and maintenance
 -   Molecular biology with a focus on CRISPR guided genome editing
 -   Experience in scientific writing and presentation
@@ -36,7 +36,7 @@ knit: pagedown::chrome_print
 
 ### PhD, Bioinformatician
 
-### [NBIS](https://www.nbis.se), University of Gothenburg](https://www.gu.se/en)
+### [NBIS](https://www.nbis.se), [University of Gothenburg](https://www.gu.se/en)
 
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
