@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Aditya Singh" />
-    <meta name="date" content="2025-01-27" />
+    <meta name="date" content="2026-07-03" />
     <title>Aditya Singh’s Resume</title>
 
     
@@ -31742,7 +31742,7 @@ width: unset;
       const anchors = content.querySelectorAll('a[href^="#"]:not([href*=":"])');
       for (const a of anchors) {
         const ref = a.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (frontMatter.contains(element)) a.classList.add('front-matter-ref');
       }
 
@@ -31981,7 +31981,7 @@ width: unset;
       const tocAnchors = content.querySelectorAll('.toc a[href^="#"]:not([href*=":"]');
       for (const anchor of tocAnchors) {
         const ref = anchor.getAttribute('href').replace(/^#/, '');
-        const element = content.getElementById(ref);
+        const element = content.getElementById(decodeURIComponent(ref));
         if (element.classList.contains('chapter')) {
           anchor.classList.add('chapter-ref');
         }
@@ -32343,8 +32343,8 @@ width: unset;
 <div id="skills" class="section level2">
 <h2>Skills</h2>
 <ul>
-<li>Proficient in multi-omics data analysis and gene regulatory network inference algorithms</li>
-<li>Programming languages: Golang, R, Python, Bash, CromWell/WDL</li>
+<li>Single cell and spatial transcriptomics, pipeline dev, reproducibility</li>
+<li>Programming: Golang, R, Python, Nextflow/nf-core, Bash, CromWell/WDL</li>
 <li>Experience in HPC and cloud (GCP) cluster management and maintenance</li>
 <li>Molecular biology with a focus on CRISPR guided genome editing</li>
 <li>Experience in scientific writing and presentation</li>
@@ -32358,8 +32358,8 @@ width: unset;
 <div id="phd-bioinformatician" class="section level3">
 <h3>PhD, Bioinformatician</h3>
 </div>
-<div id="university-of-gothenburg" class="section level3">
-<h3><a href="https://www.gu.se/en">University of Gothenburg</a></h3>
+<div id="nbis-university-of-gothenburghttpswww.gu.seen" class="section level3">
+<h3><a href="https://www.nbis.se">NBIS</a>, University of Gothenburg](<a href="https://www.gu.se/en" class="uri">https://www.gu.se/en</a>)</h3>
 </div>
 </div>
 <div id="education" class="section level2" data-icon="graduation-cap" data-concise="true">
