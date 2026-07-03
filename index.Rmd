@@ -74,11 +74,20 @@ Chandigarh, India
 
 ### Bioinformatician
 
-University of Gothenburg, Core Facilities
+NBIS, University of Gothenburg, Core Facilities
 
 Gothenburg, Sweden
 
 Current - 2025/01
+
+-   Working with the National Bioinformatics Infrastructure Sweden (NBIS), stationed at GU
+-   Involved in cross-institutional projects around scRNAseq, spatial and multi-omics integration
+-   Providing teaching and trainings in the field of single cell, spatial transcriptomics and reproducibility
+-   Involved with ELIXIR Europe course on spatial science
+-   Nextflow and contributing to `nf-core` pipelines
+-   Containerization and serve deployment of courses: Docker, Pixi, Apptainer, Podman
+-   Part of NBIS Advisory program for PhD students
+-   Consulting science
 
 ### Postdoctoral Researcher
 
